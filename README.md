@@ -4,7 +4,7 @@ This repository is intended to host Lab assignments for the AWS MLU ML through A
 
 ## Lab Assignments
 
-- [Module 2, Lab 1: Performing EDA for Categorical Variables](link/to/lab1.ipynb)
+- [Module 2, Lab 1: Performing EDA for Categorical Variables]([link/to/lab1.ipynb](https://github.com/TLeonidas/AWS-MLU-ML-through-Application-Labs/blob/1f9b775fd1dbe4cca9a71b086ad173401d905094/MLUMLA-EN-M2-Lab1.ipynb))
 - [Module 2, Lab 2: Performing EDA for Numerical Variables](link/to/lab2.ipynb)
 
 ## Sharing Access
